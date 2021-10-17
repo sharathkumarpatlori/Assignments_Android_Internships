@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SNF Sendriya</string>
+    <string name="user_registration">User Registration</string>
+    <string name="your_name">Your Name</string>
+    <string name="email_address">Email address</string>
+    <string name="phone_no">Phone no.</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="register">Register</string>
+    <string name="welcome">Welcome</string>
+</resources>
